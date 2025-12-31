@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pls Accept The Gift</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main-container">
+        <h1 class="top-text">This is you sign to send this website<br>instead of "Happy New Year"</h1>
+        
+        <div class="browser-window">
+            <div class="browser-header">
+                <div class="window-controls">
+                    <span class="dot"></span>
+                    <span class="dot"></span>
+                    <span class="dot"></span>
+                </div>
+                <div class="tabs">
+                    <div class="tab active"></div>
+                    <div class="tab"></div>
+                </div>
+                <div class="address-bar-row">
+                    <div class="nav-icons">
+                        <span>&larr;</span>
+                        <span>&rarr;</span>
+                        <span>&#x21bb;</span>
+                    </div>
+                    <div class="address-bar"></div>
+                </div>
+            </div>
+            
+            <div class="browser-content">
+                <h2 class="content-title">PLS ACCEPT THE GIFT</h2>
+                <div class="image-container">
+                    <img src="bear.png" alt="Cute bear holding a heart saying I Love You">
+                </div>
+                <div class="buttons-container">
+                    <button class="btn yes-btn">YES</button>
+                    <button class="btn no-btn">NO</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
